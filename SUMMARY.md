@@ -15,8 +15,6 @@
 
 ## social
 
----
-
 * [🐦 Twitter](https://twitter.com/HytoraCloud)
 * [🔌 SpigotMC](https://www.spigotmc.org/resources/hytoracloud-your-cloudsystem.88159/)
 * [💬 Discord](https://discord.gg/85mfsFXSyV)
