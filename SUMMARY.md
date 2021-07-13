@@ -11,4 +11,13 @@
 
 * [🔧 Konfiguration](post-installation/konfiguration.md)
 * [❌ Troubleshooting](post-installation/troubleshooting.md)
+* [❓ FAQ](post-installation/faq.md)
+
+## Soziale Medien
+
+---
+
+* [🐦 Twitter](https://twitter.com/HytoraCloud)
+* [🔌 SpigotMC](https://www.spigotmc.org/resources/hytoracloud-your-cloudsystem.88159/)
+* [💬 Discord](https://discord.gg/85mfsFXSyV)
 
